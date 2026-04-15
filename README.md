@@ -2,7 +2,7 @@
 
 ## 1. 文档目的
 
-本文用于解读 `Y:\UIS8581awes\system\core\init\init.cpp` 的职责定位、核心流程以及前后调用关系，便于开发同事快速理解 Android `init` 第二阶段（second stage）的启动与调度逻辑。
+本文用于解读 `\system\core\init\init.cpp` 的职责定位、核心流程以及前后调用关系，便于快速理解 Android `init` 第二阶段（second stage）的启动与调度逻辑。
 
 ---
 
